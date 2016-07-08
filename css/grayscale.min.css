@@ -9,7 +9,7 @@ body {
   font-family: "Helvetica Neue Light", Helvetica, Arial, sans-serif;
   
   color: white;
-  background-color: #009999;
+  background-color: #003333;
 }
 html {
   width: 100%;
@@ -125,7 +125,7 @@ a:focus {
   padding: 100px 0;
   text-align: center;
   color: white;
-  background: url(../img/backie1.jpg) no-repeat bottom center scroll;
+  background: url(../img/backie2.jpg) no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
