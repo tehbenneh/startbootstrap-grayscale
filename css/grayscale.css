@@ -23,8 +23,8 @@ h5,
 h6 {
   margin: 0 0 35px;
   text-transform: uppercase;
-  font-family: "Montserrat", "Helvetica Neue Light", Helvetica, Arial, sans-serif;
-  font-weight: 700;
+  font-family: "Helvetica Neue Light", Helvetica, Arial, sans-serif;
+  font-weight: 100;
   letter-spacing: 1px;
 }
 p {
